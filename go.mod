@@ -1,4 +1,4 @@
-module qark-device-api
+module github.com/yuanyu-tech/qark-device-api
 
 go 1.19
 

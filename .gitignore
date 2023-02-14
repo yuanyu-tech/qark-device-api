@@ -1,0 +1,24 @@
+*.o
+*.a
+*.lo
+*.la
+*.so
+.deps/
+*-testing
+# vim #
+*.swp
+*.vim
+*.viminfo
+.idea/
+*.out
+*.out.*
+*.db
+.vs/
+.vscode/
+/build/
+/out/
+/bin/
+*.log
+.tags
+qark-rpc-proxy
+*.toml
